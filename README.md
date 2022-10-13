@@ -23,6 +23,7 @@
 <a href="https://tegorinternational.github.io/Resume-builder-App/" target="blank">Resume builder App</a>
 <a href="https://tegorinternational.github.io/ESCR/" target="blank">Extra spaces Remover App</a>
 <a href="https://tegorinternational.github.io/Dukaan-App/" target="blank">Dukan App</a>
+<a href="https://tegorinternational.github.io/Dukaan-App/" target="blank">Dukan App</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>

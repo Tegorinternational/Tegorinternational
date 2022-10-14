@@ -1,7 +1,10 @@
 ![logo](https://tegorinternational.github.io/GitHub.io/swiper_images/20220628_133408.png)
 <h1 align="center">Hi 👋, I'm Rurendra Tegor</h1>
 <h3 align="center">I am passionate about logo and web designing.</h3>
-<img align="right" alt="tegorinternational" width="400" src="https://static-cdn.icons8.com/l/animations/images/Distance_education+.gif">
+<img align="right" alt="tegorinternational" width="400" src="https://animafoundation.in/wp-content/uploads/2021/03/website.gif">
+<br/>
+<br/>
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tegorinternational&label=Profile%20views&color=0e75b6&style=flat" alt="tegorinternational" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tegorinternational" alt="tegorinternational" /></a> </p>

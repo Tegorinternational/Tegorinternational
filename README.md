@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Tegorinternational/](https://github.com/Tegorinternational/)
+- 👨‍💻 All of my projects are available at [https://tegorinternational.github.io/all_repo/](https://tegorinternational.github.io/all_repo/)
 
 - 💬 Ask me about **Html, css and javascript**
 

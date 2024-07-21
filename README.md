@@ -1,4 +1,4 @@
-![logo](https://tegorinternational.github.io/GitHub.io/swiper_images/20220628_133408.png)
+![logo](/banner.png)
 <h1 align="center">Hi 👋, I'm Rurendra Tegor</h1>
 <h3 align="center">I am passionate about logo and web designing.</h3>
 <img align="right" alt="tegorinternational" width="400" src="https://animafoundation.in/wp-content/uploads/2021/03/website.gif">

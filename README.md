@@ -1,25 +1,17 @@
 ![logo](/banner.png)
 <h1 align="center">Hi 👋, I'm Rurendra Tegor</h1>
 <h3 align="center">I am passionate about logo and web designing.</h3>
-<img align="right" alt="tegorinternational" width="400" src="https://animafoundation.in/wp-content/uploads/2021/03/website.gif">
-<br/>
-<br/>
-<br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tegorinternational&label=Profile%20views&color=0e75b6&style=flat" alt="tegorinternational" /> </p>
+
+![Banner](https://images.unsplash.com/photo-1711659829586-fa5d64ac9b7a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNvZGluZyUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tegorinternational&label=Profile%20views&color=0e75b6&style=flat" alt="tegorinternational" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tegorinternational" alt="tegorinternational" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tegorintgfx" target="blank"><img src="https://img.shields.io/twitter/follow/tegorintgfx?logo=twitter&style=for-the-badge" alt="tegorintgfx" /></a> </p>
-
-- 🛡️ I’m currently working at [TEGOR INTERNATIONAL](https://tegorinternational.github.io/GitHub.io/)
-
-- 🌱 I’m currently learning **React js**
-
-- 👨‍💻 All of my projects are available at [https://tegorinternational.github.io/all_repo/](https://tegorinternational.github.io/all_repo/)
-
-- 💬 Ask me about **Html, css and javascript**
-
-- 📫 How to reach me **tegorinternational@gmail.com**
+#### 👨‍💻 All of my projects
+- [rurendrategor.web.app](https://rurendrategor.web.app)
+#### 👨‍💻 All of my GitHub hosted projects
+- [tegorinternational.github.io](https://tegorinternational.github.io/all_repo/)
 
 <h3 align="left">Projects:</h3>
 <p align="left">

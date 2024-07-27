@@ -16,7 +16,12 @@
 <a href="https://tegorinternational.github.io/Dukaan-App/" target="blank">Dukan App</a><br>
 </p>
 
+
+## 📈 Profile Views
+
 <img width="100%" src="https://komarev.com/ghpvc/?username=tegorinternational&label=Profile%20views&color=0e75b6&style=flat" alt="tegorinternational" /> 
+
+## 📊 GitHub Stats
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=tegorinternational&show_icons=true&locale=en" alt="tegorinternational" />
 

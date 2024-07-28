@@ -28,38 +28,28 @@
 
 ## 🌟 Projects
 
-- [**Project1**](example.com) - Project1 Description
-- [Project1](example.com) - Project1 Description
-- [Project1](example.com) - Project1 Description
-- [Project1](example.com) - Project1 Description
-- [Project1](example.com) - Project1 Description
+- [Create Html Webapp](https://github.com/Tegorinternational/create-html-webapp) - A Node.js CLI tool to scaffold a basic HTML WebApp.
+- [Telegram bot](https://github.com/Tegorinternational/Telegram-gemi-bot) - Project1 Description
+- [Extra Spaces Remover](https://tegorinternational.github.io/ESCR/) - Project1 Description
+- [Resume Builder](https://tegorinternational.github.io/Resume-builder-App/) - Project1 Description
+- [Ek Pahal](https://ek-pahal.vercel.app/) - Project1 Description
+- [GitHub Profile Search](https://tegorinternational.github.io/GitHubProfileSearch/) - Project1 Description
+- [Easy Math Education](https://easy-math-education.web.app/) - Project1 Description
+- [Divy Hospital](https://divyhospital.web.app/) - Project1 Description
+- [Telegram Mini Webapp](https://telegram-gemi-bot.web.app/) - Project1 Description
 
-- **All Projects available at** [rurendrategor.web.app/projects](https://rurendrategor.web.app)
-- **All Projects available at** [rurendrategor.web.app/projects](https://rurendrategor.web.app)
+- **All Projects available at** [rurendrategor/projects](https://rurendrategor.web.app)
+- **Public Projects available at** [github.com/tegorinternational](https://tegorinternational.github.io/GitHubProfileSearch/)
 
 
 ## 📫 Connect with Me
 
-<p align="center" >
-<a style="text-decoration: none;" href="https://twitter.com/yourusername" >
-<img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a style="text-decoration: none;" href="https://twitter.com/yourusername" >
-<img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=E4405F" />
-</a>
-<a style="text-decoration: none;" href="https://twitter.com/yourusername" >
-<img src="https://img.shields.io/badge/-facebook-black?style=for-the-badge&logo=facebook&logoColor=0866FF" />
-</a>
-<a style="text-decoration: none;" href="https://twitter.com/yourusername" >
-<img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-<a style="text-decoration: none;" href="https://twitter.com/yourusername" >
-<img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a style="text-decoration: none;" href="https://twitter.com/yourusername" >
-<img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=read.cv&logoColor=white" />
-</a>
-</p>
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=x&logoColor=white)](https://www.linkedin.com/in/yourusername/)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.linkedin.com/in/yourusername/)
+[![Facebook](https://img.shields.io/badge/-facebook-black?style=for-the-badge&logo=facebook&logoColor=0866FF)](https://www.linkedin.com/in/yourusername/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/yourusername/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/yourusername/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=read.cv&logoColor=white)](https://www.linkedin.com/in/yourusername/)
 
 
 ## 📈 Profile Views

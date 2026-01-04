@@ -44,12 +44,12 @@
 
 ## 📫 Connect with Me
 
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=x&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.linkedin.com/in/yourusername/)
-[![Facebook](https://img.shields.io/badge/-facebook-black?style=for-the-badge&logo=facebook&logoColor=0866FF)](https://www.linkedin.com/in/yourusername/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/yourusername/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=read.cv&logoColor=white)](https://www.linkedin.com/in/yourusername/)
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/rurendra_tegor/)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/in/tegorinternational/)
+[![Facebook](https://img.shields.io/badge/-facebook-black?style=for-the-badge&logo=facebook&logoColor=0866FF)](https://www.facebook.com/rurendra.tegor/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/tegorinternational/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/in/Tegorinternational/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=read.cv&logoColor=white)](https://www.rurendrategor.web.app.com/)
 
 
 ## 📈 Profile Views
